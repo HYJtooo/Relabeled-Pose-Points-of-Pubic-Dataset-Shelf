@@ -4,6 +4,8 @@ We relabel pedestrians' pose points in  1500 frames of 5 cameras of dataset Shel
 ## Posture Points
 The distribution of attitude points is shown in Figure.
 
+![pic](https://github.com/HYJtooo/Multivisual-fusion-features-tracking/blob/HYJtooo-patch-1/pointssuccess.svg)
+
 ## Pose Points Storage Sequence
 In `data_init.npz`, each pedestrian's pose points are stored in the following order:       
 O_Joints = [15,16,20,14,17,21,13,18,22,12,19,23,1,10,11,0,5,6,4,7,3,8,2,9]
